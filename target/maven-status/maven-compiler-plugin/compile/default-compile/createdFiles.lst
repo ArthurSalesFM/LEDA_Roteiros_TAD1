@@ -1,0 +1,14 @@
+testes\TestaPilha.class
+tad\fila\MinhaFilaEncadeada.class
+tad\listasEncadeadas\ListaEncadeadaIF.class
+tad\pilha\PilhaCheiaException.class
+tad\pilha\PilhaVaziaException.class
+tad\pilha\MinhaPilha.class
+tad\listasEncadeadas\NodoListaEncadeada.class
+tad\pilha\PilhaIF.class
+tad\listasEncadeadas\ListaDuplamenteEncadeadaImpl.class
+tad\fila\FilaCheiaException.class
+tad\listasEncadeadas\ListaDuplamenteEncadeadaIF.class
+tad\fila\FilaVaziaException.class
+tad\listasEncadeadas\NodoListaDuplamenteEncadeada.class
+tad\fila\FilaIF.class
