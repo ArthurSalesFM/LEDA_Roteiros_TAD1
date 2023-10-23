@@ -4,7 +4,7 @@ public class MinhaPilha implements PilhaIF<Integer> {
 	
 	private int tamanho = 10;
 	private Integer[] meusDados = null;
-        private int topo;
+       // private int topo;
 
 	public MinhaPilha(int tamanho) {
 		this.tamanho = tamanho;
