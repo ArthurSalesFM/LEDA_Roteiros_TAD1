@@ -60,6 +60,10 @@ public class NodoListaEncadeada<T extends Comparable<T>> {
 			return this.chave.toString();
 		return null;
 	}
+
+    Object getAnterior() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 	
 	
 
